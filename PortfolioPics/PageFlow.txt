@@ -1,0 +1,4 @@
+Start: Personal Page (Bio, Edu., Links)
+Links: Home, Protfolio (drop down of projects), GitHub, Resume
+Portfolio: List of projects and short desc.
+Project Link: Slide show of images for the proeject with desc. and/or anything else
